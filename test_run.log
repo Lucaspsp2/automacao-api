@@ -1,0 +1,2 @@
+INFO     root:conftest.py:26 === Iniciando sessão de testes ===
+ERROR    root:conftest.py:98 Arquivo /Users/lpsp/Documents/automacao-api/casos_de_teste.csv não encontrado!

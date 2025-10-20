@@ -1,0 +1,5 @@
+title,body,userId,expected_status
+"Post válido 1","Corpo do post 1",1,201
+"Post válido 2","Outro corpo",1,201
+"Título vazio","",1,201
+"Body vazio","Body vazio mas com título",,201
